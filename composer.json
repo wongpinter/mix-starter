@@ -1,0 +1,14 @@
+{
+    "name": "wongpinter/laravel-mix-starter",
+    "authors": [
+        {
+            "name": "Wong Java",
+            "email": "root@wongpinter.com"
+        }
+    ],
+
+
+    "autoload": {
+        "files": ["mix.php"]
+    }
+}
